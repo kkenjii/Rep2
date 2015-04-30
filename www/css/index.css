@@ -46,6 +46,33 @@ body {
 }
 
 /* Portrait layout (default) */
+.column{
+    height: 50%;
+    width: 50%;
+    border: 1px solid red;
+}
+.column1{
+    height: 50%;
+    width: 50%;
+    border: 1px solid red;
+}
+.column2{
+    height: 50%;
+    width: 50%;
+    border: 1px solid red;
+}
+.column3{
+    height: 50%;
+    width: 50%;
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
 .app {
     background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
     position:absolute;             /* position in the center of the screen */
